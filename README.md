@@ -1,9 +1,9 @@
 # Hello World, I'm Arthur Rocha. Be very welcome!
 
--👨‍💻 Sou Analista de Testes/QA
--🧏🏻‍♂️ Deficiente Auditivo (H90.3)
--🌱 Estudando PHP, JavaScritp e Java
--😉 Pronoums: Ele/Dele
+- 👨‍💻 Sou Analista de Testes/QA
+- 🧏🏻‍♂️ Deficiente Auditivo (H90.3)
+- 🌱 Estudando PHP, JavaScritp e Java
+- 😉 Pronoums: Ele/Dele
 
 <div>
   <a herf="https://github.com/ArthurRocha-98">
