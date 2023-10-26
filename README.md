@@ -2,7 +2,7 @@
 
 - 👨‍💻 Sou Assistente de Desenvolvimento
 - 🧏🏻‍♂️ Deficiente Auditivo (H90.3)
-- 🌱 Estudando PHP, JavaScritp e Java
+- 🌱 Estudando PHP, JavaScript e Java
 - 😉 Pronoums: Ele/Dele
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRocha-98&show_icons=true&theme=radical)
